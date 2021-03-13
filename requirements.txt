@@ -1,0 +1,8 @@
+Pyrogram~=1.1.13
+requests~=2.25.1
+emoji~=1.2.0
+matplotlib~=3.3.4
+mplcyberpunk~=0.1.11
+TenGiphPy~=2.5.0
+gTTS~=2.2.2
+tgcrypto~=1.2.2
